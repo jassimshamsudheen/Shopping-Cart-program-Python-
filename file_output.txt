@@ -1,0 +1,9 @@
+Your Weekly Income Total is $500
+Your Weekly Bill Payment is $200.0
+Your Weekly Long-term Savings is $150.0
+Your Additional non-essential funds is $75.0
+Your Funds available for essentials is $75.0
+------Shopping Cart-------
+ Items:i watch     Quantity:1     Price:50.0 
+Your essentials cart costis $50.0
+Your contribution to long term savings is updated to$175.0
